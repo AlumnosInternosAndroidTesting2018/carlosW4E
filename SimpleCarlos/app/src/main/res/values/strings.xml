@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">First App</string>
+
+    <string name="divideZero">Divide Zero</string>
+    <string name="addThousand">Add Thousand</string>
+    <string name="addMillion">Add Million</string>
+    <string name="batteryInfo">No Battery Info</string>
+    <string name="battery">Battery</string>
+
+</resources>
